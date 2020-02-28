@@ -1,7 +1,3 @@
-"""
-mysql.py
-pymysql基本操作流程
-"""
 
 import pymysql
 

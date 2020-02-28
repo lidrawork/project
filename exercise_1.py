@@ -1,6 +1,4 @@
-"""
-将dict.txt 单词本中的单词插入数据库中words表
-"""
+
 import pymysql
 import re
 
